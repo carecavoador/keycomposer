@@ -1,0 +1,16 @@
+{
+    "abreviacoes": {
+        "vc": {
+            "ativo": true,
+            "texto": "você"
+        },
+        "n": {
+            "ativo": true,
+            "texto": "não"
+        },
+        "blz": {
+            "ativo": true,
+            "texto": "beleza"
+        }
+    }
+}
